@@ -12,6 +12,8 @@ void UWebRequestCallback<T>(UWebResponse<T> response)
   //get response data
   string strResponse = response.GetResponseData() as string;
 }
+```
+
 # Example
 ### Make a Get request
 ```C#
