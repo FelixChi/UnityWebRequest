@@ -1,0 +1,13 @@
+# unity ugnore dir
+/Library/
+/Temp/
+/Bin/
+/Obj/
+
+# unity ignore file
+*.sln
+*.csproj
+*.userprefs
+*.unityproj
+*.tmp
+*.user
